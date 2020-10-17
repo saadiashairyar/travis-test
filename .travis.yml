@@ -7,4 +7,4 @@ env:
   - INDEX=4
 
 
-script: sleep 30
+script: sleep 10
