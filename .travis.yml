@@ -1,0 +1,10 @@
+os: linux
+
+env:
+  - INDEX=1
+  - INDEX=2
+  - INDEX=3
+  - INDEX=4
+
+
+script: sleep 30
